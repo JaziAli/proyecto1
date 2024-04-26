@@ -1,0 +1,57 @@
+#seccion1{
+    border: 5px solid black;
+    background-color:rgba(102, 179, 169, 0.471);
+    position: absolute;
+    width: 95%;
+    height: 40%;
+    right: 5%;
+}
+
+#tablas{
+    width: 35%;
+    position: relative;
+    left: 0px;
+}
+
+#priimn
+{
+    position: absolute;
+    left: 50%;
+    width: 30%;
+    top: 10%;
+    height: 75%;
+}
+
+#dasec
+{
+    border: 5px solid rgb(55, 53, 53);
+    background-color: rgba(102, 102, 219, 0.683);
+    position: absolute;
+    bottom: 25%;
+}
+
+#daimg
+{
+    width: 20%;
+    position: absolute;
+    width: 12%;
+    left: 10%;
+
+}
+
+#infone
+{
+    position: relative;
+    width: 75%;
+    height: 50%;
+    left: 25%;
+}
+
+#sectr
+{
+    background-color: rgb(136, 211, 117);
+    border: 5px solid rgb(65, 63, 63);
+    position: absolute;
+    top: 75%;
+}
+
